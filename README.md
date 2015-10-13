@@ -15,8 +15,6 @@ Project Euler Solutions in Python 3
 
 **Website:** [jdndeveloper.com](http://www.jdndeveloper.com/)
 
-**LinkedIn:** 
-
 ## Description:
 A collection of Project Euler solutions written in Python 3.
 
